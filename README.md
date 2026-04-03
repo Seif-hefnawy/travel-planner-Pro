@@ -48,4 +48,4 @@ An interactive, responsive web application designed to help users plan their jou
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-Developed with ❤️ by [Saiufa]
+Developed with ❤️ by [seifhelmy]
